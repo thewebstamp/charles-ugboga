@@ -24,7 +24,7 @@ const projects = [
     problem: "Hair businesses need a robust online store with real-time inventory management and sales tracking capabilities.",
     solution: "Developed a full-featured e-commerce solution with admin dashboard, CRUD operations, revenue tracking, and product performance analytics.",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Postgresql", "Admin Dashboard", "Analytics"],
-    liveUrl: "https://hairstop.vercel.app/",
+    liveUrl: "https://hairstop.shop/",
     githubUrl: "https://github.com/thewebstamp/hairstop",
     image: "/images/HSW.png"
   },
@@ -39,10 +39,10 @@ const projects = [
     image: "/images/PPW.png"
   },
   {
-    title: "First Choice Construction",
-    description: "A professional single-page website for construction contractors with optimized contact forms and service showcases.",
-    problem: "Construction contractors need a simple yet effective online presence to showcase services and generate leads.",
-    solution: "Designed a responsive single-page website with service highlights, project gallery, and contact form integration.",
+    title: "Simple Contractor Website",
+    description: "A professional single-page website for a construction contractor with optimized contact forms and service showcases.",
+    problem: "Some businesses need an effective online presence to showcase services and generate leads but with little budget.",
+    solution: "Designed a budget-friendly responsive single-page website with service highlights, project gallery, and contact form integration.",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel", "Contact Forms", "Responsive Design"],
     liveUrl: "https://first-choice-construction.vercel.app/",
     githubUrl: "https://github.com/thewebstamp/first-choice-construction",

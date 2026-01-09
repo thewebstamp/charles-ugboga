@@ -64,8 +64,8 @@ export default function ContactForm() {
       >
         <h3 className="text-2xl md:text-3xl font-bold text-white mb-6 font-heading">Get In Touch</h3>
         <p className="text-gray-300 mb-8 text-xl md:text-2xl font-light leading-relaxed font-body">
-          I&apos;m always interested in new opportunities, whether it&apos;s a freelance project, 
-          full-time role, or just chatting about web development and SEO.
+          I&apos;m always interested in new opportunities, whether it&apos;s a freelance project or
+          contracted projects, I am open to liasing with you.
         </p>
 
         <div className="space-y-6 mb-8">

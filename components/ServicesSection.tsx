@@ -7,7 +7,7 @@ const services = [
   {
     icon: Code,
     title: "Next.js Development",
-    description: "Building modern, scalable web applications with Next.js 14+ featuring App Router, Server Components, and optimal performance.",
+    description: "Building modern, scalable web applications with the latest Next.js featuring App Router, Server Components, and optimal performance.",
     features: ["App Router", "Server Components", "API Routes", "Middleware"],
     gradient: "from-blue-500/10 to-blue-600/10",
     iconGradient: "from-blue-500 to-blue-600"

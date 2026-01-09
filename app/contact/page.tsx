@@ -4,7 +4,7 @@ import { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Contact',
-  description: 'Get in touch with me for your next project. I\'m available for freelance work and full-time remote positions.',
+  description: 'Get in touch with me for your next project. I\'m available for freelance work and contract remote positions.',
 }
 
 export default function Contact() {

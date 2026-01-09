@@ -177,7 +177,7 @@ export default function About() {
                   },
                   {
                     title: "Professional Growth",
-                    content: "Now, I'm looking to take my skills to the next level by joining a professional team where I can contribute to larger projects, collaborate with other developers, and continue growing as a professional. I'm particularly interested in remote opportunities with agencies or companies in the USA, Europe, or UK.",
+                    content: "Now, I'm looking to take my skills to the next level by liasing with a professional team where I can contribute to larger projects, collaborate with other developers, and continue growing as a professional. I'm particularly interested in remote opportunities with agencies or companies in the USA, Europe, or Canada.",
                     color: "border-l-green-500",
                     bg: "bg-green-500",
                     year: "Present",
@@ -377,10 +377,6 @@ export default function About() {
                       <Globe size={20} className="group-hover:rotate-12 transition-transform duration-300" />
                       Contact Me
                     </Link>
-                    <button className="border-2 border-white/20 text-white px-8 py-4 rounded-lg font-semibold hover:border-blue-400 hover:text-blue-400 transition-all duration-300 font-body backdrop-blur-sm bg-white/5 hover:bg-white/10 hover:scale-105 flex items-center justify-center gap-2 group">
-                      <Download size={20} className="group-hover:translate-y-1 transition-transform duration-300" />
-                      Download Resume
-                    </button>
                   </div>
                 </div>
               </div>
